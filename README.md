@@ -1,6 +1,8 @@
 # Self-Monitor
 Self-Monitor stores data from Health Connect API on Android to InfluxDB for further [visualization with Grafana](https://www.kshivendu.dev/blog/quantified-self#health-dashboard)
 
+> Note that this project isn't sufficient to reproduce all the features of https://www.kshivendu.dev/blog/quantified-self. I made many changes that are yet to be pushed to this repo. I plan to do it soon.
+
 The platform consists of two parts:
 - A REST API/server
 - A mobile application that pings the server periodically
