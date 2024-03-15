@@ -1,5 +1,5 @@
-# HealthMonitor
-HealthMonitor stores Health Connect API on Android to InfluxDB for further [visualization with Grafana](https://www.kshivendu.dev/blog/quantified-self#health-dashboard)
+# Self-Monitor
+Self-Monitor stores data from Health Connect API on Android to InfluxDB for further [visualization with Grafana](https://www.kshivendu.dev/blog/quantified-self#health-dashboard)
 
 The platform consists of two parts:
 - A REST API/server
